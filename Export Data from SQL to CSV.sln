@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Export Data from SQL to CSV", "Export Data from SQL to CSV\Export Data from SQL to CSV.dtproj", "{D2BAD3D0-B445-4927-9DAB-EBFA9F486F34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2BAD3D0-B445-4927-9DAB-EBFA9F486F34}.Development|Default.ActiveCfg = Development
+		{D2BAD3D0-B445-4927-9DAB-EBFA9F486F34}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24349C58-3F2F-49CD-94D8-D613DB3C7725}
+	EndGlobalSection
+EndGlobal
